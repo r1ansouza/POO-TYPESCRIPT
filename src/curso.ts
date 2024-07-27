@@ -14,7 +14,7 @@ abstract class Curso {
         return this._nome
     }
     public set nome(value: string) {
-        this._nome = value
+        this._nome = value;
     }
 
     public get cargaHoraria(): number {
