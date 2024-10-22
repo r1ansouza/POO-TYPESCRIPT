@@ -4,7 +4,7 @@ import { Projeto } from "../projeto/projeto";
 
 class Aluno extends Pessoa implements Projeto{
 
-    ////////////////////////////
+    //////////////////////////
     // atributos de Instancia///
     ////////////////////////////
 
