@@ -7,6 +7,7 @@ class Aluno extends Pessoa implements Projeto{
     //////////////////////////
     // atributos de Instancia///
     ////////////////////////////
+    
 
     private _curso: string = '';
     private _situacao: SituacaoAluno = SituacaoAluno.ATIVO;  // Situacao estrutural - Composição - A partir de atributo
